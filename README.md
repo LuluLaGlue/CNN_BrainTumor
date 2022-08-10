@@ -1,6 +1,6 @@
 # BRAIN TUMOR DETECTION
 
-This repository contains an attempt at Brain Tumor detection by using image classification. The dataset used can be found <a href="https://www.kaggle.com/code/emrearslan123/brain-tumor-detection-on-mri-images/data">here</a>
+This repository contains an attempt at Brain Tumor detection by using image classification. The dataset used can be found <a href="https://www.kaggle.com/code/emrearslan123/brain-tumor-detection-on-mri-images/data">here</a>. A good introduction to this project is in the *tumor_detection.ipynb* notebook. It will walk you through each step of the training process, from data importation to manual testing of the resulting model.
 
 # Run the project
 
