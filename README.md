@@ -82,4 +82,4 @@ This repository contains an attempt at Brain Tumor detection by using image clas
 
 ### **_Contact_**
 
--   This repository was created and maintained by <a href="https://github.com/LuluLaGlue">Lucien SIGAYRET</a> feal free to contact me.
+-   This repository was created and maintained by <a href="https://github.com/LuluLaGlue">Lucien SIGAYRET</a> feel free to contact me.
