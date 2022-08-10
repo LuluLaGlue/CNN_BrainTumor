@@ -1,0 +1,4 @@
+# brain_tumor_dataset/
+venv/
+.prettierignore
+__pycache__/
