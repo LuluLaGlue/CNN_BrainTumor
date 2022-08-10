@@ -6,8 +6,8 @@ from cv2 import imread, resize
 import matplotlib.pyplot as plt
 from argparse import ArgumentParser
 from tensorflow.keras.callbacks import History
+from tensorflow.keras.models import Sequential, Model
 from sklearn.metrics import accuracy_score, confusion_matrix
-from tensorflow.keras.models import Sequential, load_model, Model
 from tensorflow.keras.layers import (Conv2D, MaxPooling2D, Dense, Flatten,
                                      Input, RandomFlip, RandomZoom,
                                      RandomContrast, RandomRotation)
